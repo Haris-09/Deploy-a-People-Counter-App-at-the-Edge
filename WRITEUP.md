@@ -18,15 +18,17 @@ were...
 The difference between model accuracy pre- and post-conversion was...
 pre and post conversion both gives the good and almost same results with slight differenve
 
-# The size of the model pre- and post-conversion was...
+### The size of the model pre- and post-conversion was...
 
 - Model1: ssd_mobilenet_v2_coco:
-  pre-conversion=202Mb and post-conversion=65Mb
+                pre-conversion = 202Mb
+                post-conversion = 65Mb
 
 - Model2: ssdlite_mobilenet_v2_coco:
-  pre-conversion=60Mb and post-conversion=18Mb
+                pre-conversion = 60Mb
+                post-conversion = 18Mb
 
-# The inference time of the model pre- and post-conversion was...
+### The inference time of the model pre- and post-conversion was...
 
 - Model1: ssd_mobilenet_v2_coco:
   pre-conversion=203ms and post-conversion=78ms
